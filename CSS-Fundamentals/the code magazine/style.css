@@ -76,3 +76,21 @@ footer p {
 body {
   background-color: oldlace;
 }
+
+li {
+  font-weight: bold;
+}
+
+/* Styling links*/
+a:link {
+  color: rgb(100, 0, 250);
+}
+a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline;
+}
+a:active {
+  background-color: black;
+  font-style: italic;
+}
