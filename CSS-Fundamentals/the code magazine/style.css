@@ -83,7 +83,7 @@ li {
 
 /* Styling links*/
 a:link {
-  color: rgb(100, 0, 250);
+  color: rgb(0, 0, 250);
 }
 a:hover {
   color: orangered;
