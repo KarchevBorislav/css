@@ -5,9 +5,16 @@ h4,
 p,
 li {
   font-family: sans-serif;
+  color: #444;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #ff0000;
 }
 h1 {
-  color: red;
   font-size: 26px;
 
   text-transform: uppercase;
@@ -58,4 +65,14 @@ footer p {
 }
 .related-nopoints {
   list-style: none;
+}
+.main-header {
+  background-color: #f7f7f7;
+}
+.border {
+  background-color: #f7f7f7;
+  border: 5px solid #ff0000;
+}
+body {
+  background-color: oldlace;
 }
